@@ -43,7 +43,7 @@ The M4K app makes it easy for children to study math in a more creative way. The
 - Run the app using `yarn start` or another suitable command
 
 ```bash
-git clone https://github.com/akiyamahaa/expo-tech-app.git
+git clone https://github.com/leminhduc151006/App-M4K.git
 cd expo-tech-app
 yarn
 yarn start
