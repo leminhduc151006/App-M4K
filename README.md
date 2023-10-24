@@ -24,9 +24,9 @@ The M4K app makes it easy for children to study math in a more creative way. The
 
 ## Screenshots
 
-<img src="images/Screenone.png" width="40%" alt='screen1'>
-<img src="images/Screentwo.png" width="40%" alt='screen2'>
-<img src="images/Screenthree.png" width="40% alt='screen3'>
+<img src="images/Screenone.jpg" width="40%" alt='screen1'>
+<img src="images/Screentwo.jpg" width="40%" alt='screen2'>
+<img src="images/Screenthree.jpg" width="40% alt='screen3'>
 
 ## Getting Started
 
